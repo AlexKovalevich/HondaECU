@@ -264,7 +264,7 @@ class HondaECU_FlashPanel(HondaECU_AppPanel):
 				byts = bytearray(fbin.read(nbyts))
 				fbin.close()
 				if checksum >= nbyts:
-					return Fakse
+					return False
 				ret, status, self.byts = do_validation(byts, nbyts, checksum)
 				if status != "bad":
 					return True

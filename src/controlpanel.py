@@ -335,7 +335,9 @@ class HondaECU_ControlPanel(wx.Frame):
 					byts = bytearray(fbin.read(nbyts))
 					fbin.close()
 					idadr = int(i["keihinaddr"],16)
-					self.statusbar.SetStatusText("Map ID: " + byts[idadr:(idadr+7)].decode("ascii"), 0)
+					# self.statusbar.SetStatusText("Map ID: " + byts[idadr:(idadr+7)].decode("ascii"), 0)
+					self.statusbar.SetStatusText("Map ID: " + ''.join(format(bt, '02x') + ' ' for bt in byts[(idadr):(idadr + 7)]), 0)
+
 					return
 			self.statusbar.SetStatusText("Map ID: unknown", 0)
 
@@ -348,7 +350,8 @@ class HondaECU_ControlPanel(wx.Frame):
 			nbyts = os.path.getsize(pathname)
 			byts = bytearray(fbin.read(nbyts))
 			fbin.close()
-			self.statusbar.SetStatusText("Checksum: %s" % ("good" if checksum8bitHonda(byts)==0 else "bad"), 0)
+			checksum = checksum8bitHonda(byts)
+			self.statusbar.SetStatusText("Checksum: %s %s" % ("good" if checksum == 0 else "bad ", checksum), 0)
 			return
 
 	def OnDebug(self, event):

@@ -30,5 +30,8 @@ ECM_IDs = {
 	b"\x01\x02\x13\x05\x01": {"model":"MSX125","year":"2017-2019","pn":"38770-K26-B13","checksum":"0x5fff","offset":"0x8000","ecmidaddr":"0x23B8","keihinaddr":"0x1"},
 	b"\x01\x02\x57\x05\x01": {"model":"MSX125","year":"2017-2019","pn":"38770-K26-C31","checksum":"0x5fff","offset":"0x8000","ecmidaddr":"0x260C","keihinaddr":"0x1"},
 
+	b"\x01\x00\xaa\x05\x01": {"model":"VFR1200F","year":"2010-2011","pn":"38770-MGE-773","checksum":"0x7fff8", "keihinaddr":"0x36b57"},
+
 	b"\x01\x02\xe8\x05\x01": {"model":"CRF450R","year":"2017-2019","pn":"38770-MKE-A71"},
+
 }

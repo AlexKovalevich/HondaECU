@@ -18,7 +18,8 @@ class USBMonitor(Thread):
 			new_devices = {}
 			try:
 				for device in Driver().list_devices():
-					vendor, product, serial = map(lambda x: x.decode('latin1'), device)
+					# vendor, product, serial = map(lambda x: x.decode('latin1'), device)
+					vendor, product, serial = map(lambda x: x, device)
 					new_devices[serial] = (vendor, product)
 					if not serial in self.ftdi_devices:
 						wx.CallAfter(dispatcher.send, signal="USBMonitor", sender=self, action="add", vendor=vendor, product=product, serial=serial)

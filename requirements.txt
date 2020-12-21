@@ -1,11 +1,23 @@
 pywin32; sys_platform == 'win32'
-pylibftdi
-pydispatcher
-wxPython
-requests
-lxml
-numpy==1.15.4
-colour
-pyparsing
-gitpython
--e git://github.com/MCU-Innovations/eculib.git#egg=eculib==1.0.9
+pyftdi==0.52.0
+pylibftdi==0.19.0
+pydispatcher==2.0.5
+wxPython==4.0.7
+requests==2.25.0
+lxml==4.6.2
+numpy==1.19.3
+colour==0.1.5
+pyparsing==2.4.7
+#gitpython
+certifi==2020.11.8
+chardet==3.0.4
+idna==2.10
+Pillow==8.0.1
+pyserial==3.5
+pyusb==1.1.0
+setuptools==50.3.0
+six==1.15.0
+urllib3==1.26.2
+#eculib==1.0.9
+pip
+#-e git://github.com/MCU-Innovations/eculib.git#egg=eculib==1.0.9

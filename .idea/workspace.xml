@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9b1bda3-0a92-4af3-9722-90e9fa0a5398" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HondaECU-AL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bins/VFR1200F_38770-MGE/experimental/38770-MGE-773.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bins/VFR1200F_38770-MGE/stock/38770-MGE-773.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/CDM21228_Setup.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/zadig-2.5.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/build/lib/eculib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/build/lib/eculib/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/build/lib/eculib/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/build/lib/eculib/honda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/dist/eculib-1.0.9-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib/baseNew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/eculib/honda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eculibDistrib/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/CTX-kline-interface-1024x514.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honda-m32r-type3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honda-r8c-type1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honda-sh705x-type1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honda-spc560-type1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/honda-spc560-type2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xdfs/VFR1200F_38770-MGE-773/38770-MGE-773.xdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xdfs/VFR1200F_38770-MGE-773/WinOLSDemo/AVK_10000.ols" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xdfs/VFR1200F_38770-MGE-773/WinOLSDemo/Deleted Items/Deleted092490_AVK_10001.ols" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xdfs/VFR1200F_38770-MGE-773/WinOLSDemo/cache_AVK.dir" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.appveyor.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.appveyor.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/10-ftdi.rules" beforeDir="false" afterPath="$PROJECT_DIR$/misc/10-ftdi.rules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/eeprom.conf" beforeDir="false" afterPath="$PROJECT_DIR$/misc/eeprom.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/postbuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/postbuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/misc/prebuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/misc/prebuild.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements-dev.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__motoamerica__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/__motoamerica__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlpanel.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/controlpanel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ecmids.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ecmids.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/error.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/flash.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/flash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/hrcsettings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/hrcsettings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/info.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/tune.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/tune.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frames/tunehelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/frames/tunehelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/kline.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/kline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threads/usb.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/threads/usb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/version.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ibmMSMbn3MKtvkXvdMt5C5g49D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eculibDistrib/eculib" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\alex\HondaECU-AL\1\HondaECU\eculibDistrib\eculib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Ecu LIb main --list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HondaECU-AL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eculibDistrib/eculib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eculibDistrib/eculib/__main__.py" />
+      <option name="PARAMETERS" value="--list-devices" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="HondaECU-AL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HondaECU-AL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Ecu LIb main --list" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ecu LIb main --list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9b1bda3-0a92-4af3-9722-90e9fa0a5398" name="Default Changelist" comment="" />
+      <created>1602184618443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602184618443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/1/HondaECU" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608520991779">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608520991779" />
+    <state x="884" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608518666834">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="884" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608518666834" />
+    <state x="1191" y="581" width="1167" height="777" key="#xdebugger.evaluate" timestamp="1608523665746">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1191" y="581" width="1167" height="777" key="#xdebugger.evaluate/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608523665746" />
+    <state width="1650" height="466" key="DebuggerActiveHint" timestamp="1608521246435">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1650" height="466" key="DebuggerActiveHint/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608521246435" />
+    <state x="93" y="93" width="2375" height="1215" key="DiffContextDialog" timestamp="1608375745563">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="93" width="2375" height="1215" key="DiffContextDialog/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608375745563" />
+    <state x="844" y="450" key="FileChooserDialogImpl" timestamp="1608375048469">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="844" y="450" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608375048469" />
+    <state width="2539" height="481" key="GridCell.Tab.0.bottom" timestamp="1608525003050">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525003050" />
+    <state width="2539" height="481" key="GridCell.Tab.0.center" timestamp="1608525003050">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525003050" />
+    <state width="2539" height="481" key="GridCell.Tab.0.left" timestamp="1608525003050">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525003050" />
+    <state width="2539" height="481" key="GridCell.Tab.0.right" timestamp="1608525003050">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525003050" />
+    <state width="2539" height="481" key="GridCell.Tab.1.bottom" timestamp="1608525002967">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525002967" />
+    <state width="2539" height="481" key="GridCell.Tab.1.center" timestamp="1608525002967">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525002967" />
+    <state width="2539" height="481" key="GridCell.Tab.1.left" timestamp="1608525002967">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525002967" />
+    <state width="2539" height="481" key="GridCell.Tab.1.right" timestamp="1608525002967">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="481" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608525002967" />
+    <state x="1198" y="349" key="SettingsEditor" timestamp="1608523439432">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1198" y="349" key="SettingsEditor/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608523439432" />
+    <state x="1002" y="442" width="540" height="524" key="StructurePopup" timestamp="1606799684256">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1002" y="442" width="540" height="524" key="StructurePopup/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1606799684256" />
+    <state width="1287" height="707" key="XDebugger.FullValuePopup" timestamp="1608466308928">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1287" height="707" key="XDebugger.FullValuePopup/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608466308928" />
+    <state x="967" y="518" width="1339" height="801" key="find.popup" timestamp="1608522900883">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="967" y="518" width="1339" height="801" key="find.popup/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608522900883" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1608486087443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/3840.0.2560.1400@0.0.2560.1400" timestamp="1608486087443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eculib/build/lib/eculib/honda.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eculib/build/lib/eculib/honda.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/eculib/build/lib/eculib/honda.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

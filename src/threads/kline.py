@@ -2,8 +2,9 @@ import time
 import os
 import wx
 from threading import Thread
+from ftd2xx import FTD2XX as ftd
 from pydispatch import dispatcher
-from pylibftdi import Driver, FtdiError, LibraryMissingError
+# from pylibftdi import Driver, FtdiError, LibraryMissingError
 import numpy as np
 
 from eculib import KlineAdapter
@@ -93,7 +94,7 @@ class KlineWorker(Thread):
 				pass
 
 	def read_flash(self):
-		readsize = 12
+		readsize = 128
 		location = self.readinfo[1]
 		binfile = self.readinfo[0]
 		status = "bad"

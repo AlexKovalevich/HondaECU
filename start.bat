@@ -1,0 +1,1 @@
+venv\Scripts\python.exe src/__main__.py
